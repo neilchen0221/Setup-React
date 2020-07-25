@@ -1,6 +1,6 @@
-#2 Ways of setting up React
+# 2 Ways of setting up React
 
-###Create React App
+### Create React App
 
 1. Set up development environment
 
@@ -20,7 +20,7 @@ npm start
 npm run build
 ```
 
-###Set up React from scratch
+### Set up React from scratch
 
 1. `npm init`
 
